@@ -1,3 +1,2 @@
---extra-index-url https://archive.panda3d.org/simple
-panda3d>=1.10.0.dev1182
-pyopengl
+panda3d==1.10.0.dev1654
+pyopengl==3.1.1a1
